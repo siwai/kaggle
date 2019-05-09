@@ -1,2 +1,2 @@
 # kaggle
-for kaggle
+for practice
